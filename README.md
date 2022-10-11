@@ -3,7 +3,7 @@
 
 There has been an alarming increase in Formaldehyde contamination in the
 Indian subcontinent in various edible products. Vegetables, fish, poultry and
-dairy products are most aected by this and it poses a threat to the health
+dairy products are most affected by this and it poses a threat to the health
 of the consumers. This thesis presents the complete design, implementation
 and testing analysis of a formalin detection kit based on microcontrollers and
 sensors.
@@ -14,7 +14,7 @@ of VOC gas using a volatile organic compound (VOC) sensor. The output
 signal from the gas sensor is fed to a microcontroller unit which converts
 the electrical signal into a digital value. A complete kit using display, alarm
 and sensor is implemented and tested and the results are validated by VOC
-sample solutions prepared in a chemical laboratory at dierent concentration
+sample solutions prepared in a chemical laboratory at different concentration
 levels.
 
 Results show that detected levels of VOC compound are consistent with
