@@ -2,7 +2,7 @@
 
 
 There has been an alarming increase in Formaldehyde contamination in the
-Indian subcontinent in various edible products. Vegetables, sh, poultry and
+Indian subcontinent in various edible products. Vegetables, fish, poultry and
 dairy products are most aected by this and it poses a threat to the health
 of the consumers. This thesis presents the complete design, implementation
 and testing analysis of a formalin detection kit based on microcontrollers and
